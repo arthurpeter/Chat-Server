@@ -6,5 +6,6 @@
 
 First you should clone this repo locally with git clone <URL>.
 Run with:  cargo run
+
 Connect to the chat using:
 telnet localhost 8080
